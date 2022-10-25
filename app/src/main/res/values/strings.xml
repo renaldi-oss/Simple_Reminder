@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Reminder</string>
+    <string name="rank">1</string>
+    <string name="title">Title</string>
+    <string name="crew">crew</string>
+    <string name="rating">rating</string>
+    <string name="rcount">rating Count</string>
+</resources>
